@@ -1,4 +1,4 @@
-# USDZ-for-Scientific-Visulisation
+# USDZ-for-Scientific-Visualization
 Dear user,
 
 Here you can find the USDZ models for visualisation in Augmented Reality. These models based on digital analysis of X-Ray microtomography data obtained for reservoir rocks. The methodology of development .usdz models using open software is described in the article "R.I. Kadyrov. Developing of USDZ models for 3D analysis results visualization in augmented reality".
